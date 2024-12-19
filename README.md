@@ -1,6 +1,6 @@
 # SR-FLIPFLOP-USING-CASE
 
-Name : Ravikrishnamoorthy.D
+Name : D.Ravikrishnamoorthy
 
 Ref No : 24008789
 
